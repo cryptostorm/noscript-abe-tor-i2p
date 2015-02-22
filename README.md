@@ -8,3 +8,5 @@ Site LOCAL
 Accept from LOCAL 
 Deny
 ```
+
+Cookies might still be denied by Noscript. Anyone able to help out with that issue?
